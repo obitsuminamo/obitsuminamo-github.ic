@@ -1,2 +1,2 @@
-# obitsuminamo-github.io
+# obitsuminamo.github.io
 東京在住
